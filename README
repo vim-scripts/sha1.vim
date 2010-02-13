@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2971
+
+This is a port of rfc 3174 sha1 function.
+
+:echo sha1#sha1("hello, world")
+b7e23ec29af22b0b4e41da31e868d57226121c84
